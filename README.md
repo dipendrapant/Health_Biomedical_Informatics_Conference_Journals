@@ -1,6 +1,6 @@
-# Project Overview
+## Project Overview
 
-This document provides a list of significant **conferences and journals related to Biomedical & Health Informatics**. It includes essential information such as submission deadlines, conference dates, locations, and journal impact factors.
+This document provides a list of significant **conferences** and **journals** related to **Biomedical & Health Informatics**. It includes essential information such as submission deadlines, conference dates, locations, and journal impact factors.
 
 ## Conferences
 <div align="center" style="overflow-x:auto;text-align:center;vertical-align: middle;">
@@ -71,8 +71,8 @@ This document provides a list of significant **conferences and journals related 
     <td>Aug 15, 2024 / Oct 16, 2024</td>
     <td>December 3-6, 2024</td>
     <td>Lisbon, Portugal</td>
-    <td>Workshop Deadline</td>
-    <td>Workshop Notification</td>
+    <td></td>
+    <td></td>
 </tr>
 
 
