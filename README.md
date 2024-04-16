@@ -2,9 +2,8 @@
 
 This document provides a list of significant **conferences** and **journals** related to **Biomedical & Health Informatics**. It includes essential information such as submission deadlines, conference dates, locations, and journal impact factors.
 
-## Conferences
 <div align="center" style="overflow-x:auto;text-align:center;vertical-align: middle;">
-<table border="1">
+<table border="0.5">
 <caption> <h2> Biomedical & Health Informatics Conferences</h2</caption>
 <thead>
 <tr>
@@ -101,9 +100,8 @@ This document provides a list of significant **conferences** and **journals** re
 </table>
 </div>
 
-## Journals
 <div align="center" style="overflow-x:auto;text-align:center;vertical-align: middle;">
-<table border="1">
+<table border="0.5">
 <caption> <h2> Biomedical & Health Informatics Journals</h2></caption>
 <thead>
 <tr>
@@ -162,7 +160,7 @@ This document provides a list of significant **conferences** and **journals** re
 </div>
 
 
-## Source
+## Useful Sources
 
 - [ACM Upcoming Conferences](https://www.acm.org/upcoming-conferences)
 - [IEEE Upcoming conferences](https://conferences.ieee.org/conferences_events/conferences/search?q=*&subsequent_q=&date=all&from=&to=&region=all&country=all&pos=0&sortorder=desc&sponsor=&sponsor_type=all&state=all&field_of_interest=all&sortfield=relevance)
