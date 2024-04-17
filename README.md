@@ -15,7 +15,7 @@ This document provides a list of significant **conferences** and **journals** re
 <th colspan="3">Workshop Paper</th>
 </tr>
 <tr>
-<th>Deadline</th><th>Notification</th><th>Name</th><th>Deadline</th><th>Notification</th>
+<th>Deadline</th><th>Notification</th><th>Name</th><th>Deadline</th>
 </tr>
 </thead>
 <tbody>
@@ -28,7 +28,6 @@ This document provides a list of significant **conferences** and **journals** re
     <td>Gran Canaria, Spain</td>
     <td></td>
     <td></td>
-    <td></td>
 </tr>
 
 <tr>
@@ -37,7 +36,6 @@ This document provides a list of significant **conferences** and **journals** re
     <td>April 15, 2024</td>
     <td>July 15 to 19, 2024</td>
     <td>Orlando, Florida, USA</td>
-    <td></td>
     <td></td>
     <td></td>
 </tr>
@@ -50,7 +48,6 @@ This document provides a list of significant **conferences** and **journals** re
     <td>Athens, Greece</td>
     <td></td>
     <td></td>
-    <td></td>
 </tr>
 <tr>
     <td><a href="https://icpmconference.org/2024/">ICPM 2024</a></td>
@@ -60,7 +57,6 @@ This document provides a list of significant **conferences** and **journals** re
     <td>Technical University of Denmark, Lyngby</td>
     <td><a href="https://icpmconference.org/2024/workshops/">Workshops</a></td>
     <td></td>
-    <td></td>
 </tr>
 <tr>
     <td><a href="https://bhi.embs.org/2024/">IEEE BHI 2024</a></td>
@@ -68,7 +64,6 @@ This document provides a list of significant **conferences** and **journals** re
     <td>June 13, 2024</td>
     <td>November 10 to 13, 2024</td>
     <td>Houston, Texas, USA</td>
-    <td></td>
     <td></td>
     <td></td>
 </tr>
@@ -80,7 +75,6 @@ This document provides a list of significant **conferences** and **journals** re
     <td>Nice, France</td>
     <td></td>
     <td></td>
-    <td></td>
 </tr>
 <tr>
     <td><a href="https://www.icbbe.com/index.html">ICBBE 2024</a></td>
@@ -90,7 +84,6 @@ This document provides a list of significant **conferences** and **journals** re
     <td>Osaka, Japan</td>
     <td></td>
     <td></td>
-    <td></td>
 </tr>
 <tr>
     <td><a href="https://ieeebibm.org/BIBM2024/">IEEE BIBM 2024</a></td>
@@ -98,7 +91,6 @@ This document provides a list of significant **conferences** and **journals** re
     <td>Aug 15, 2024 / Oct 16, 2024</td>
     <td>December 3-6, 2024</td>
     <td>Lisbon, Portugal</td>
-    <td></td>
     <td></td>
     <td></td>
 </tr>
@@ -111,7 +103,6 @@ This document provides a list of significant **conferences** and **journals** re
     <td>Barcelona, Spain</td> 
     <td><a href="https://biokdd.org/biokdd24/regular.html">BIOKDD 2024</a></td>
     <td>May 28, 2024</td>
-    <td>August 25, 2024</td>
 </tr>
 
 
