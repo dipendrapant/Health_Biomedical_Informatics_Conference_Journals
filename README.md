@@ -76,6 +76,15 @@ This document provides a list of significant **conferences** and **journals** re
     <td></td>
 </tr>
 <tr>
+    <td><a href="https://www.icbbe.com/index.html">ICBBE 2024</a></td>
+    <td>June 15, 2024</td>
+    <td>July 05, 2024</td>
+    <td>November 8-11, 2024</td>
+    <td>Osaka, Japan</td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
     <td><a href="https://ieeebibm.org/BIBM2024/">IEEE BIBM 2024</a></td>
     <td>June 20, 2024 / Aug 16, 2024</td>
     <td>Aug 15, 2024 / Oct 16, 2024</td>
@@ -165,6 +174,7 @@ This document provides a list of significant **conferences** and **journals** re
 - [ACM Upcoming Conferences](https://www.acm.org/upcoming-conferences)
 - [IEEE Upcoming conferences](https://conferences.ieee.org/conferences_events/conferences/search?q=*&subsequent_q=&date=all&from=&to=&region=all&country=all&pos=0&sortorder=desc&sponsor=&sponsor_type=all&state=all&field_of_interest=all&sortfield=relevance)
 - [COMS - Conference Management Software](https://conference-service.com/conferences/index.html)
+- [Conference Ranks](http://www.conferenceranks.com/)
 - [International Medical Informatics Association](https://amia.org/education-events)
 - [American Medical Informatics Association](https://imia-medinfo.org/wp/)
 - [SCIMAGO](https://www.scimagojr.com/journalrank.php)
