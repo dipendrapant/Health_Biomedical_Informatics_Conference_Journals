@@ -2,7 +2,8 @@
 
 This document provides a list of significant **conferences** and **journals** related to **Biomedical & Health Informatics**. It includes essential information such as submission deadlines, conference dates, locations, and journal impact factors.
 
-<div align="center" style="overflow-x:auto;text-align:center;vertical-align: middle;">
+<div align="center" style="overflow-x:auto;text-align:center;vertical-align: middle; font-size: small;">
+
 <table border="0.5">
 <caption> <h2> Biomedical & Health Informatics Conferences</h2</caption>
 <thead>
@@ -129,7 +130,7 @@ This document provides a list of significant **conferences** and **journals** re
 </table>
 </div>
 
-<div align="center" style="overflow-x:auto;text-align:center;vertical-align: middle;">
+<div align="center" style="overflow-x:auto;text-align:center;vertical-align: middle; font-size: small;">
 <table border="0.5">
 <caption> <h2> Biomedical & Health Informatics Journals</h2></caption>
 <thead>
