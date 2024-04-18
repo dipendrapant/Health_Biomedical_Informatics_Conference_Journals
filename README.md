@@ -22,81 +22,81 @@ This document provides a list of significant **conferences** and **journals** re
 <!-- Sort the conference dates before adding based on the dates -->
 <tr>
     <td><a href="https://iwbbio.ugr.es/">IWBBIO 2024</a></td>
-    <td>April 4th, 2024</td>
-    <td>April 25th, 2024</td>
-    <td>July 15- 17, 2024</td>
+    <td>April 4</td>
+    <td>April 25</td>
+    <td>July 15 - 17</td>
     <td>Gran Canaria, Spain</td>
     <td></td>
     <td></td>
 </tr>
 <tr>
     <td><a href="https://aime24.aimedicine.info/">AIME 2024</a></td>
-    <td>April - June, 2024</td>
+    <td>April - June</td>
     <td></td>
-    <td>July 9, 2024</td>
+    <td>July 9</td>
     <td>Florida, USA</td>
     <td><a href="https://aime24.aimedicine.info/workshop/">Workshops</a></td>
     <td></td>
 </tr>
 <tr>
     <td><a href="https://embc.embs.org/2024/">EMBC 2024</a></td>
-    <td>July 15, 2024</td>
-    <td>April 15, 2024</td>
-    <td>July 15 to 19, 2024</td>
+    <td>July 15</td>
+    <td>April 15</td>
+    <td>July 15 - 19</td>
     <td>Orlando, Florida, USA</td>
     <td></td>
     <td></td>
 </tr>
 <tr>
     <td><a href="https://mie2024.org/">MIE 2024</a></td>
-    <td>August 25, 2024</td>
-    <td>March 18, 2024</td>
-    <td>August 25 to 29, 2024</td>
+    <td>August 25</td>
+    <td>March 18</td>
+    <td>August 25 - 29</td>
     <td>Athens, Greece</td>
     <td></td>
     <td></td>
 </tr>
 <tr>
     <td><a href="https://icpmconference.org/2024/">ICPM 2024</a></td>
-    <td>May 30, 2024</td>
-    <td>July 16, 2024</td>
-    <td>October 14 to 18, 2024</td>
+    <td>May 30</td>
+    <td>July 16</td>
+    <td>October 14 - 18</td>
     <td>Technical University of Denmark, Lyngby</td>
     <td><a href="https://icpmconference.org/2024/workshops/">Workshops</a></td>
     <td></td>
 </tr>
 <tr>
     <td><a href="https://bhi.embs.org/2024/">IEEE BHI 2024</a></td>
-    <td>November 10, 2024</td>
-    <td>June 13, 2024</td>
-    <td>November 10 to 13, 2024</td>
+    <td>November 10</td>
+    <td>June 13</td>
+    <td>November 10 - 13</td>
     <td>Houston, Texas, USA</td>
     <td></td>
     <td></td>
 </tr>
 <tr>
     <td><a href="https://www.iaria.org/conferences2024/HEALTHINFO24.html">HEALTHINFO 2024</a></td>
-    <td>November 2024</td>
-    <td>July 7, 2024</td>
-    <td>November 2024</td>
+    <td>July 7</td>
+    <td>September 9</td>
+    <td>November 3 - 7</td>
     <td>Nice, France</td>
     <td></td>
     <td></td>
 </tr>
 <tr>
     <td><a href="https://www.icbbe.com/index.html">ICBBE 2024</a></td>
-    <td>June 15, 2024</td>
-    <td>July 05, 2024</td>
-    <td>November 8-11, 2024</td>
+    <td>June 15</td>
+    <td>July 05</td>
+    <td>November 8 - 11</td>
     <td>Osaka, Japan</td>
     <td></td>
     <td></td>
 </tr>
 <tr>
     <td><a href="https://ieeebibm.org/BIBM2024/">IEEE BIBM 2024</a></td>
-    <td>June 20, 2024 / Aug 16, 2024</td>
-    <td>Aug 15, 2024 / Oct 16, 2024</td>
-    <td>December 3-6, 2024</td>
+    <td>June 20 & Aug 16</td>
+    <td>Aug 15  & Oct 16</td>
+    <td>December 3 - 6</td>
     <td>Lisbon, Portugal</td>
     <td></td>
     <td></td>
@@ -108,7 +108,7 @@ This document provides a list of significant **conferences** and **journals** re
     <td>25 - 29 August</td>
     <td>Barcelona, Spain</td> 
     <td><a href="https://biokdd.org/biokdd24/regular.html">BIOKDD 2024</a></td>
-    <td>May 28, 2024</td>
+    <td>May 28</td>
 </tr>
 
 
