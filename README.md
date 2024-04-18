@@ -35,8 +35,8 @@ This document provides a list of significant **conferences** and **journals** re
     <td></td>
     <td>July 9, 2024</td>
     <td>Florida, USA</td>
+    <td><a href="https://aime24.aimedicine.info/workshop/">Link</a></td>
     <td></td>
-    <td>Workshops <a href="https://aime24.aimedicine.info/workshop/">Link</a></td>
 </tr>
 <tr>
     <td><a href="https://embc.embs.org/2024/">EMBC 2024</a></td>
