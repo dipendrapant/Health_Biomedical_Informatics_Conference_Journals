@@ -29,7 +29,15 @@ This document provides a list of significant **conferences** and **journals** re
     <td></td>
     <td></td>
 </tr>
-
+<tr>
+    <td><a href="https://aime24.aimedicine.info/">AIME 2024</a></td>
+    <td>April - June, 2024</td>
+    <td></td>
+    <td>July 9, 2024</td>
+    <td>Florida, USA</td>
+    <td></td>
+    <td>All Workshops <a href="https://aime24.aimedicine.info/workshop/">Link</a></td>
+</tr>
 <tr>
     <td><a href="https://embc.embs.org/2024/">EMBC 2024</a></td>
     <td>July 15, 2024</td>
@@ -39,7 +47,6 @@ This document provides a list of significant **conferences** and **journals** re
     <td></td>
     <td></td>
 </tr>
-
 <tr>
     <td><a href="https://mie2024.org/">MIE 2024</a></td>
     <td>August 25, 2024</td>
@@ -94,7 +101,6 @@ This document provides a list of significant **conferences** and **journals** re
     <td></td>
     <td></td>
 </tr>
-
 <tr>
     <td><a href="https://kdd2024.kdd.org/">KDD 2024</a></td>
     <td></td>
