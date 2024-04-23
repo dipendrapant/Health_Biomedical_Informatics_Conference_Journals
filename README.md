@@ -113,8 +113,8 @@ This document provides a list of significant **conferences** and **journals** re
 
 <tr>
     <td><a href="https://hi-bi-bi.cpsc.ucalgary.ca/2024/">HI-BI-BI 2024</a></td>
-    <td></td>
-    <td></td>
+    <td>May 15</td>
+    <td>July 25</td>
     <td>02 - 05 September</td>
     <td>Cosenza, Italy</td> 
     <td></td>
