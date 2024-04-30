@@ -22,8 +22,11 @@ This document provides a list of significant **conferences** and **journals** re
 <!-- Sort the conference dates before adding based on the dates -->
 <tr>
     <td><a href="https://iwbbio.ugr.es/">IWBBIO 2024</a></td>
+    <!-- Paper Submission Deadline -->
     <td>April 4</td>
+    <!-- Notification Date -->
     <td>April 25</td>
+    <!-- Conference Date -->
     <td>July 15 - 17</td>
     <td>Gran Canaria, Spain</td>
     <td></td>
@@ -31,8 +34,11 @@ This document provides a list of significant **conferences** and **journals** re
 </tr>
 <tr>
     <td><a href="https://aime24.aimedicine.info/">AIME 2024</a></td>
+    <!-- Paper Submission Deadline -->
     <td>April - June</td>
+    <!-- Notification Date -->
     <td></td>
+    <!-- Conference Date -->
     <td>July 9</td>
     <td>Florida, USA</td>
     <td><a href="https://aime24.aimedicine.info/workshop/">Workshops</a></td>
@@ -40,8 +46,11 @@ This document provides a list of significant **conferences** and **journals** re
 </tr>
 <tr>
     <td><a href="https://embc.embs.org/2024/">EMBC 2024</a></td>
-    <td>July 15</td>
-    <td>April 15</td>
+    <!-- Paper Submission Deadline -->
+    <td>30 April</td>
+    <!-- Notification Date -->
+    <td></td>
+    <!-- Conference Date -->
     <td>July 15 - 19</td>
     <td>Orlando, Florida, USA</td>
     <td></td>
@@ -49,8 +58,11 @@ This document provides a list of significant **conferences** and **journals** re
 </tr>
 <tr>
     <td><a href="https://mie2024.org/">MIE 2024</a></td>
-    <td>August 25</td>
-    <td>March 18</td>
+    <!-- Paper Submission Deadline -->
+    <td>April 3</td>
+    <!-- Notification Date -->
+    <td>25 May</td>
+    <!-- Conference Date -->
     <td>August 25 - 29</td>
     <td>Athens, Greece</td>
     <td></td>
@@ -58,8 +70,11 @@ This document provides a list of significant **conferences** and **journals** re
 </tr>
 <tr>
     <td><a href="https://icpmconference.org/2024/">ICPM 2024</a></td>
+    <!-- Paper Submission Deadline -->
     <td>May 30</td>
+    <!-- Notification Date -->
     <td>July 16</td>
+    <!-- Conference Date -->
     <td>October 14 - 18</td>
     <td>Technical University of Denmark, Lyngby</td>
     <td><a href="https://icpmconference.org/2024/workshops/">Workshops</a></td>
@@ -67,8 +82,11 @@ This document provides a list of significant **conferences** and **journals** re
 </tr>
 <tr>
     <td><a href="https://bhi.embs.org/2024/">IEEE BHI 2024</a></td>
-    <td>November 10</td>
+    <!-- Paper Submission Deadline -->
     <td>June 13</td>
+    <!-- Notification Date -->
+    <td>September 26</td>
+    <!-- Conference Date -->
     <td>November 10 - 13</td>
     <td>Houston, Texas, USA</td>
     <td></td>
@@ -76,8 +94,11 @@ This document provides a list of significant **conferences** and **journals** re
 </tr>
 <tr>
     <td><a href="https://www.iaria.org/conferences2024/HEALTHINFO24.html">HEALTHINFO 2024</a></td>
+    <!-- Paper Submission Deadline -->
     <td>July 7</td>
+    <!-- Notification Date -->
     <td>September 9</td>
+    <!-- Conference Date -->
     <td>November 3 - 7</td>
     <td>Nice, France</td>
     <td></td>
@@ -85,8 +106,11 @@ This document provides a list of significant **conferences** and **journals** re
 </tr>
 <tr>
     <td><a href="https://www.icbbe.com/index.html">ICBBE 2024</a></td>
+    <!-- Paper Submission Deadline -->
     <td>June 15</td>
+    <!-- Notification Date -->
     <td>July 05</td>
+    <!-- Conference Date -->
     <td>November 8 - 11</td>
     <td>Osaka, Japan</td>
     <td></td>
@@ -94,8 +118,11 @@ This document provides a list of significant **conferences** and **journals** re
 </tr>
 <tr>
     <td><a href="https://ieeebibm.org/BIBM2024/">IEEE BIBM 2024</a></td>
+    <!-- Paper Submission Deadline -->
     <td>June 20 & Aug 16</td>
+    <!-- Notification Date -->
     <td>Aug 15  & Oct 16</td>
+    <!-- Conference Date -->
     <td>December 3 - 6</td>
     <td>Lisbon, Portugal</td>
     <td></td>
@@ -103,8 +130,11 @@ This document provides a list of significant **conferences** and **journals** re
 </tr>
 <tr>
     <td><a href="https://kdd2024.kdd.org/">KDD 2024</a></td>
+    <!-- Paper Submission Deadline -->
     <td></td>
+    <!-- Notification Date -->
     <td></td>
+    <!-- Conference Date -->
     <td>25 - 29 August</td>
     <td>Barcelona, Spain</td> 
     <td><a href="https://biokdd.org/biokdd24/regular.html">BIOKDD 2024</a></td>
@@ -113,8 +143,11 @@ This document provides a list of significant **conferences** and **journals** re
 
 <tr>
     <td><a href="https://hi-bi-bi.cpsc.ucalgary.ca/2024/">HI-BI-BI 2024</a></td>
+    <!-- Paper Submission Deadline -->
     <td>May 15</td>
+    <!-- Notification Date -->
     <td>July 25</td>
+    <!-- Conference Date -->
     <td>02 - 05 September</td>
     <td>Cosenza, Italy</td> 
     <td></td>
@@ -124,6 +157,7 @@ This document provides a list of significant **conferences** and **journals** re
 
 <!-- <tr>
 <td><a href="conference_link_here">Conference Name</a></td>
+
 <td>Submission Deadline</td>
 <td>Notification Date</td>
 <td>Conference Date</td>
