@@ -21,6 +21,18 @@ This document provides a list of significant **conferences** and **journals** re
 <tbody>
 <!-- Sort the conference dates before adding based on the dates -->
 <tr>
+    <td><a href="https://medinfo2025.org/">Med Info 2025</a></td>
+    <!-- Paper Submission Deadline -->
+    <td>December 4</td>
+    <!-- Notification Date -->
+    <td> </td>
+    <!-- Conference Date -->
+    <td>August 9 - 13</td>
+    <td>Taipei, Taiwan</td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
     <td><a href="https://iwbbio.ugr.es/">IWBBIO 2024</a></td>
     <!-- Paper Submission Deadline -->
     <td>April 4</td>
@@ -177,8 +189,7 @@ This document provides a list of significant **conferences** and **journals** re
 <thead>
 <tr>
 <th>Journal Name</th>
-<th>Impact Factor</th>
-<th>H-Index</th>
+<th>Check SCIMAGO</th>
 <th>Submission Link</th>
 </tr>
 </thead>
@@ -186,44 +197,37 @@ This document provides a list of significant **conferences** and **journals** re
 <!-- Journals sorted by H-Index and Impact Factor -->
 <tr>
     <td><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020">IEEE Journal of Biomedical and Health Informatics</a></td>
-    <td>Impact Factor: 7.7</td>
-    <td>H-Index: 156</td>
+    <td><a href="https://www.scimagojr.com/journalsearch.php?q=6221020&tip=sid">Check SCIMAGO</a></td>
     <td><a href="https://ieee.atyponrex.com/journal/jbhi-embs">Submit Here</a></td>
 </tr>
 <tr>
     <td><a href="https://academic.oup.com/jamia">Journal of the American Medical Informatics Association (JAMIA)</a></td>
-    <td>Impact Factor: 6.4</td>
-    <td>H-Index: 177</td>
+    <td><a href="https://www.scimagojr.com/journalsearch.php?q=15308&tip=sid">Check SCIMAGO</a></td>
     <td><a href="http://mc.manuscriptcentral.com/jamia">Submit Here</a></td>
 </tr>
 <tr>
     <td><a href="https://www.sciencedirect.com/journal/international-journal-of-medical-informatics">International Journal of Medical Informatics</a></td>
-    <td>Impact Factor: 4.9</td>
-    <td>H-Index: 129</td>
+    <td><a href="https://www.scimagojr.com/journalsearch.php?q=29367&tip=sid">Check SCIMAGO</a></td>
     <td><a href="https://www.editorialmanager.com/IJMEDI">Submit Here</a></td>
 </tr>
 <tr>
     <td><a href="https://www.sciencedirect.com/journal/journal-of-biomedical-informatics">Journal of Biomedical Informatics</a></td>
-    <td>Impact Factor: 4.5</td>
-    <td>H-Index: 128</td>
+    <td><a href="https://www.scimagojr.com/journalsearch.php?q=18329&tip=sid">Check SCIMAGO</a></td>
     <td><a href="https://www.editorialmanager.com/jbi/default.aspx">Submit Here</a></td>
 </tr>
 <tr>
     <td><a href="https://bmcmedinformdecismak.biomedcentral.com/">BMC Medical Informatics and Decision Making</a></td>
-    <td>Impact Factor: 3.9</td>
-    <td>H-Index: 97</td>
+    <td><a href="https://www.scimagojr.com/journalsearch.php?q=18867&tip=sid">Check SCIMAGO</a></td>
     <td><a href="https://bmcmedinformdecismak.biomedcentral.com/submission-guidelines">Submit Here</a></td>
 </tr>
 <tr>
     <td><a href="https://journals.sagepub.com/home/jhi">Health Informatics Journal</a></td>
-    <td>Impact Factor: 3.0</td>
-    <td>H-Index: 54</td>
+    <td><a href="https://www.scimagojr.com/journalsearch.php?q=145643&tip=sid">Check SCIMAGO</a></td>
     <td><a href="https://journals.sagepub.com/author-instructions/JHI">Submit Here</a></td>
 </tr>
 <tr>
     <td><a href="https://www.thieme.de/de/methods-information-medicine/journal-information-121222.htm">Methods of Information in Medicine</a></td>
-    <td>Impact Factor: 1.7</td>
-    <td>H-Index: 71</td>
+    <td><a href="https://www.scimagojr.com/journalsearch.php?q=15152&tip=sid">Check SCIMAGO</a></td>
     <td><a href="https://mc.manuscriptcentral.com/methods">Submit Here</a></td>
 </tr>
 </tbody>
