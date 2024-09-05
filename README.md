@@ -12,7 +12,7 @@ This document provides a list of significant **conferences** and **journals** re
 <th colspan="2">Paper Submission</th> 
 <th rowspan="2">Conference Dates</th>
 <th rowspan="2">Location</th>
-<th colspan="3">Workshop Paper</th>
+<!-- <th colspan="3">Workshop Paper</th> -->
 </tr>
 <tr>
 <th>Deadline</th><th>Notification</th><th>Name</th><th>Deadline</th>
@@ -29,8 +29,6 @@ This document provides a list of significant **conferences** and **journals** re
     <!-- Conference Date -->
     <td>August 9 - 13</td>
     <td>Taipei, Taiwan</td>
-    <td></td>
-    <td></td>
 </tr>
 <tr>
     <td><a href="https://iwbbio.ugr.es/">IWBBIO 2024</a></td>
@@ -41,8 +39,7 @@ This document provides a list of significant **conferences** and **journals** re
     <!-- Conference Date -->
     <td>July 15 - 17</td>
     <td>Gran Canaria, Spain</td>
-    <td></td>
-    <td></td>
+
 </tr>
 <tr>
     <td><a href="https://aime24.aimedicine.info/">AIME 2024</a></td>
@@ -53,8 +50,8 @@ This document provides a list of significant **conferences** and **journals** re
     <!-- Conference Date -->
     <td>July 9</td>
     <td>Florida, USA</td>
-    <td><a href="https://aime24.aimedicine.info/workshop/">Workshops</a></td>
-    <td></td>
+<!--     <td><a href="https://aime24.aimedicine.info/workshop/">Workshops</a></td>
+    <td></td> -->
 </tr>
 <tr>
     <td><a href="https://embc.embs.org/2024/">EMBC 2024</a></td>
@@ -65,8 +62,7 @@ This document provides a list of significant **conferences** and **journals** re
     <!-- Conference Date -->
     <td>July 15 - 19</td>
     <td>Orlando, Florida, USA</td>
-    <td></td>
-    <td></td>
+
 </tr>
 <tr>
     <td><a href="https://mie2024.org/">MIE 2024</a></td>
@@ -77,8 +73,7 @@ This document provides a list of significant **conferences** and **journals** re
     <!-- Conference Date -->
     <td>August 25 - 29</td>
     <td>Athens, Greece</td>
-    <td></td>
-    <td></td>
+
 </tr>
 <tr>
     <td><a href="https://icpmconference.org/2024/">ICPM 2024</a></td>
@@ -89,8 +84,8 @@ This document provides a list of significant **conferences** and **journals** re
     <!-- Conference Date -->
     <td>October 14 - 18</td>
     <td>Technical University of Denmark, Lyngby</td>
-    <td><a href="https://icpmconference.org/2024/workshops/">Workshops</a></td>
-    <td></td>
+<!--     <td><a href="https://icpmconference.org/2024/workshops/">Workshops</a></td>
+    <td></td> -->
 </tr>
 <tr>
     <td><a href="https://bhi.embs.org/2024/">IEEE BHI 2024</a></td>
@@ -101,8 +96,7 @@ This document provides a list of significant **conferences** and **journals** re
     <!-- Conference Date -->
     <td>November 10 - 13</td>
     <td>Houston, Texas, USA</td>
-    <td></td>
-    <td></td>
+
 </tr>
 <tr>
     <td><a href="https://www.iaria.org/conferences2024/HEALTHINFO24.html">HEALTHINFO 2024</a></td>
@@ -113,8 +107,7 @@ This document provides a list of significant **conferences** and **journals** re
     <!-- Conference Date -->
     <td>November 3 - 7</td>
     <td>Nice, France</td>
-    <td></td>
-    <td></td>
+
 </tr>
 <tr>
     <td><a href="https://www.icbbe.com/index.html">ICBBE 2024</a></td>
@@ -125,8 +118,7 @@ This document provides a list of significant **conferences** and **journals** re
     <!-- Conference Date -->
     <td>November 8 - 11</td>
     <td>Osaka, Japan</td>
-    <td></td>
-    <td></td>
+
 </tr>
 <tr>
     <td><a href="https://ieeebibm.org/BIBM2024/">IEEE BIBM 2024</a></td>
@@ -137,8 +129,7 @@ This document provides a list of significant **conferences** and **journals** re
     <!-- Conference Date -->
     <td>December 3 - 6</td>
     <td>Lisbon, Portugal</td>
-    <td></td>
-    <td></td>
+
 </tr>
 <tr>
     <td><a href="https://kdd2024.kdd.org/">KDD 2024</a></td>
@@ -149,8 +140,8 @@ This document provides a list of significant **conferences** and **journals** re
     <!-- Conference Date -->
     <td>25 - 29 August</td>
     <td>Barcelona, Spain</td> 
-    <td><a href="https://biokdd.org/biokdd24/regular.html">BIOKDD 2024</a></td>
-    <td>May 28</td>
+<!--     <td><a href="https://biokdd.org/biokdd24/regular.html">BIOKDD 2024</a></td>
+    <td>May 28</td> -->
 </tr>
 
 <tr>
@@ -162,8 +153,7 @@ This document provides a list of significant **conferences** and **journals** re
     <!-- Conference Date -->
     <td>02 - 05 September</td>
     <td>Cosenza, Italy</td> 
-    <td></td>
-    <td></td>
+
 </tr>
 
 
@@ -197,37 +187,31 @@ This document provides a list of significant **conferences** and **journals** re
 <!-- Journals sorted by H-Index and Impact Factor -->
 <tr>
     <td><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020">IEEE Journal of Biomedical and Health Informatics</a></td>
-    <td><a href="https://www.scimagojr.com/journalsearch.php?q=6221020&tip=sid">Check SCIMAGO</a></td>
+    <td rowspan="7"><a href="https://www.scimagojr.com/">Check SCIMAGO</a></td>
     <td><a href="https://ieee.atyponrex.com/journal/jbhi-embs">Submit Here</a></td>
 </tr>
 <tr>
     <td><a href="https://academic.oup.com/jamia">Journal of the American Medical Informatics Association (JAMIA)</a></td>
-    <td><a href="https://www.scimagojr.com/journalsearch.php?q=15308&tip=sid">Check SCIMAGO</a></td>
     <td><a href="http://mc.manuscriptcentral.com/jamia">Submit Here</a></td>
 </tr>
 <tr>
     <td><a href="https://www.sciencedirect.com/journal/international-journal-of-medical-informatics">International Journal of Medical Informatics</a></td>
-    <td><a href="https://www.scimagojr.com/journalsearch.php?q=29367&tip=sid">Check SCIMAGO</a></td>
     <td><a href="https://www.editorialmanager.com/IJMEDI">Submit Here</a></td>
 </tr>
 <tr>
     <td><a href="https://www.sciencedirect.com/journal/journal-of-biomedical-informatics">Journal of Biomedical Informatics</a></td>
-    <td><a href="https://www.scimagojr.com/journalsearch.php?q=18329&tip=sid">Check SCIMAGO</a></td>
     <td><a href="https://www.editorialmanager.com/jbi/default.aspx">Submit Here</a></td>
 </tr>
 <tr>
     <td><a href="https://bmcmedinformdecismak.biomedcentral.com/">BMC Medical Informatics and Decision Making</a></td>
-    <td><a href="https://www.scimagojr.com/journalsearch.php?q=18867&tip=sid">Check SCIMAGO</a></td>
     <td><a href="https://bmcmedinformdecismak.biomedcentral.com/submission-guidelines">Submit Here</a></td>
 </tr>
 <tr>
     <td><a href="https://journals.sagepub.com/home/jhi">Health Informatics Journal</a></td>
-    <td><a href="https://www.scimagojr.com/journalsearch.php?q=145643&tip=sid">Check SCIMAGO</a></td>
     <td><a href="https://journals.sagepub.com/author-instructions/JHI">Submit Here</a></td>
 </tr>
 <tr>
     <td><a href="https://www.thieme.de/de/methods-information-medicine/journal-information-121222.htm">Methods of Information in Medicine</a></td>
-    <td><a href="https://www.scimagojr.com/journalsearch.php?q=15152&tip=sid">Check SCIMAGO</a></td>
     <td><a href="https://mc.manuscriptcentral.com/methods">Submit Here</a></td>
 </tr>
 </tbody>
