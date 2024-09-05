@@ -1,4 +1,4 @@
-## Project Overview
+## Overview
 
 This document provides a list of significant **conferences** and **journals** related to **Biomedical & Health Informatics**. It includes essential information such as submission deadlines, conference dates, locations, and journal impact factors.
 
@@ -180,7 +180,7 @@ This document provides a list of significant **conferences** and **journals** re
 <thead>
 <tr>
 <th>Journal Name</th>
-<th>Check SCIMAGO</th>
+<th>More Info</th>
 <th>Submission Link</th>
 </tr>
 </thead>
@@ -188,7 +188,7 @@ This document provides a list of significant **conferences** and **journals** re
 <!-- Journals sorted by H-Index and Impact Factor -->
 <tr>
     <td><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020">IEEE Journal of Biomedical and Health Informatics</a></td>
-    <td rowspan="7"><a href="https://www.scimagojr.com/">For More Info</a></td>
+    <td rowspan="7"><a href="https://www.scimagojr.com/">Check SCIMAGO</a></td>
     <td><a href="https://ieee.atyponrex.com/journal/jbhi-embs">Submit Here</a></td>
 </tr>
 <tr>
