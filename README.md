@@ -15,7 +15,8 @@ This document provides a list of significant **conferences** and **journals** re
 <!-- <th colspan="3">Workshop Paper</th> -->
 </tr>
 <tr>
-<th>Deadline</th><th>Notification</th><th>Name</th><th>Deadline</th>
+<th>Deadline</th><th>Notification</th>
+<!--     <th>Name</th><th>Deadline</th> -->
 </tr>
 </thead>
 <tbody>
@@ -187,7 +188,7 @@ This document provides a list of significant **conferences** and **journals** re
 <!-- Journals sorted by H-Index and Impact Factor -->
 <tr>
     <td><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020">IEEE Journal of Biomedical and Health Informatics</a></td>
-    <td rowspan="7"><a href="https://www.scimagojr.com/">Check SCIMAGO</a></td>
+    <td rowspan="7"><a href="https://www.scimagojr.com/">For More Info</a></td>
     <td><a href="https://ieee.atyponrex.com/journal/jbhi-embs">Submit Here</a></td>
 </tr>
 <tr>
