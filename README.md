@@ -22,6 +22,18 @@ This document provides a list of significant **conferences** and **journals** re
 <tbody>
 <!-- Sort the conference dates before adding based on the dates -->
 <tr>
+    <td><a href="https://aime25.aimedicine.info/">AIME 2025</a></td>
+    <!-- Paper Submission Deadline -->
+    <td>February 3, 2025</td>
+    <!-- Notification Date -->
+    <td></td>
+    <!-- Conference Date -->
+    <td>June 23 - 26</td>
+    <td>Pavia, italy</td>
+<!--     <td><a href="https://aime24.aimedicine.info/workshop/">Workshops</a></td>
+    <td></td> -->
+</tr>
+<tr>
     <td><a href="https://medinfo2025.org/">Med Info 2025</a></td>
     <!-- Paper Submission Deadline -->
     <td>December 4</td>
@@ -30,18 +42,6 @@ This document provides a list of significant **conferences** and **journals** re
     <!-- Conference Date -->
     <td>August 9 - 13</td>
     <td>Taipei, Taiwan</td>
-</tr>
-<tr>
-    <td><a href="https://aime25.aimedicine.info/">AIME 2025</a></td>
-    <!-- Paper Submission Deadline -->
-    <td>February 3, 2025 - June</td>
-    <!-- Notification Date -->
-    <td></td>
-    <!-- Conference Date -->
-    <td>June 23 - 26</td>
-    <td>Pavia, italy</td>
-<!--     <td><a href="https://aime24.aimedicine.info/workshop/">Workshops</a></td>
-    <td></td> -->
 </tr>
 <tr>
     <td><a href="https://iwbbio.ugr.es/">IWBBIO 2024</a></td>
