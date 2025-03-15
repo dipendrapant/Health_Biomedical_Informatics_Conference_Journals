@@ -22,6 +22,17 @@ This document provides a list of significant **conferences** and **journals** re
 <tbody>
 <!-- Sort the conference dates before adding based on the dates -->
 <tr>
+    <td><a href="https://biod.whu.edu.cn/bibm2025/">BIBM 2025</a></td>
+    <!-- Paper Submission Deadline -->
+    <td>August 3, 2025</td>
+    <!-- Notification Date -->
+    <td></td>
+    <!-- Conference Date -->
+    <td>December 15 - 18</td>
+    <td>Wuhan, China</td>
+    <td></td> -->
+</tr>
+<tr>
     <td><a href="https://aime25.aimedicine.info/">AIME 2025</a></td>
     <!-- Paper Submission Deadline -->
     <td>February 3, 2025</td>
