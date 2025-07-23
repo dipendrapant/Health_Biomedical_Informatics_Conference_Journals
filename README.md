@@ -20,7 +20,14 @@ This document provides a list of significant **conferences** and **journals** re
 <tbody>
     
 <!-- Sort the conference dates before adding based on the dates -->
-
+<tr>
+    <td><a href="https://www.embs.org/">IEEE EMBS 2026</a></td>
+    <td>TBD</td>
+    <td></td>
+    <td>July 20 - 24</td>
+    <td>Seattle, USA</td>
+    <td></td> 
+</tr>
 <tr>
     <td><a href="https://biod.whu.edu.cn/bibm2025/">BIBM 2025</a></td>
     <td>August 3, 2025</td>
