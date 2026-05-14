@@ -203,7 +203,7 @@ This document provides a list of significant **conferences** and **journals** re
 <!-- Journals sorted by H-Index and Impact Factor -->
 <tr>
     <td><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020">npj Digital Medicine</a></td>
-    <td rowspan="7"><a href="https://www.scimagojr.com/">Check SCIMAGO</a></td>
+    <td rowspan="8"><a href="https://www.scimagojr.com/">Check SCIMAGO</a></td>
     <td><a href="https://www.nature.com/npjdigitalmed/">Submit Here</a></td>
 </tr>
 <tr>
